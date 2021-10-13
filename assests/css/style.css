@@ -267,7 +267,7 @@ img{
     padding-top: 0;
 }
 .newsletter-content{
-    background: var(--blackRussian);
+    background: grey;
     color: #fff;
     padding: 40px;
     display: flex;
@@ -297,7 +297,7 @@ img{
     width: 100%;
 }
 .subscribe-btn{
-    background: var(--blackRussian);
+    background: red;
     color: #fff;
     border: 1.5px solid var(--greyWhite);
     display: block;
@@ -330,7 +330,7 @@ img{
 /* footer */
 .footer{
     text-align: center;
-    background: var(--blackRussian);
+    background: olive;
 }
 .footer .brand-name{
     margin: 24px 0;
